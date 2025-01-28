@@ -1,0 +1,12 @@
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\bin\Debug\net9.0\BusCompany.Core.deps.json
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\bin\Debug\net9.0\BusCompany.Core.dll
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\bin\Debug\net9.0\BusCompany.Core.pdb
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\BusCompany.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\BusCompany.Core.AssemblyInfoInputs.cache
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\BusCompany.Core.AssemblyInfo.cs
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\BusCompany.Core.csproj.CoreCompileInputs.cache
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\BusCompany.Core.sourcelink.json
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\BusCompany.Core.dll
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\refint\BusCompany.Core.dll
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\BusCompany.Core.pdb
+C:\gitproj\Sem 2\Software Quality\BusTest\BusCompany.Core\obj\Debug\net9.0\ref\BusCompany.Core.dll
